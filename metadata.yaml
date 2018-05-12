@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '2983'
     url: http://www.gutenberg.org/2009/agents/2983
 description: The story is set in Virginia.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44478#The-Dare-Boys-in-Virginia
 gutenberg_issued: '2013-12-21'
 gutenberg_type: Text
 identifiers:
